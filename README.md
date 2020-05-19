@@ -26,3 +26,4 @@ You can also try with a different video clip containing any activity from the 60
 - tensorflow 2.x
 - tensorflow_hub
 - opencv-python
+- numpy

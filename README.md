@@ -2,7 +2,7 @@
 This repo will host a collection of code examples and resources for using various methods to recognize human actions in videos.
 
 ## I3D (Inflated 3D ConvNet)
-[I3D architecture](https://arxiv.org/pdf/1705.07750) was released by the researchers at [DeepMind](https://deepmind.com/research/publications/quo-vadis-action-recognition-new-model-and-kinetics-dataset) for video classification. They have also released the [Kinetics](https://deepmind.com/research/open-source/kinetics) dataset which contains 600 different human actions with at least 600 video clips for each class.
+[I3D architecture](https://arxiv.org/pdf/1705.07750) was developed by the researchers at [DeepMind](https://deepmind.com/research/publications/quo-vadis-action-recognition-new-model-and-kinetics-dataset) for video classification. They have also released the [Kinetics](https://deepmind.com/research/open-source/kinetics) dataset which contains 600 different human actions with at least 600 video clips for each class.
 
 To use i3d trained on Kinetics-600 dataset, clone this repo and follow the below commands.
 ```
